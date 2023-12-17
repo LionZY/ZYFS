@@ -1,0 +1,154 @@
+{
+    "1": [
+        {
+            "id": "ease_over",
+            "name": "Ease over",
+            "desc": "",
+            "bpm": 100
+        },
+        {
+            "id": "snails_secret",
+            "name": "Snail's Secret",
+            "desc": "",
+            "bpm": 95
+        },
+        {
+            "id": "journey",
+            "name": "Journey",
+            "desc": "",
+            "bpm": 120
+        },
+        {
+            "id": "brave_heart",
+            "name": "Brave Heart",
+            "desc": "",
+            "bpm": 100
+        },
+        {
+            "id": "blind_point",
+            "name": "Blind Point",
+            "desc": "",
+            "bpm": 120
+        },
+        {
+            "id": "fairground",
+            "name": "Fairground",
+            "desc": "",
+            "bpm": 144
+        }
+    ],
+    "2": [
+        {
+            "id": "1993",
+            "name": "1993",
+            "desc": "",
+            "bpm": 120
+        },
+        {
+            "id": "get_up_at_dawn",
+            "name": "Get Up at Dawn",
+            "desc": "",
+            "bpm": 120
+        },
+        {
+            "id": "sissi",
+            "name": "Sissi",
+            "desc": "",
+            "bpm": 120
+        },
+        {
+            "id": "coach_kim",
+            "name": "Coach Kim",
+            "desc": "",
+            "bpm": 95
+        },
+        {
+            "id": "empty_house",
+            "name": "Empty House",
+            "desc": "",
+            "bpm": 132
+        },
+        {
+            "id": "I_am_the_2nd_grade",
+            "name": "I'm the 2nd Grade",
+            "desc": "",
+            "bpm": 129
+        }
+    ],
+    "3": [
+        {
+            "id": "metal_stage",
+            "name": "Metal Stage",
+            "desc": "",
+            "bpm": 96
+        },
+        {
+            "id": "rain_boots",
+            "name": "Rain Boots",
+            "desc": "",
+            "bpm": 108
+        },
+        {
+            "id": "go_through_fire_and_water",
+            "name": "Go Through Fire And Water",
+            "desc": "",
+            "bpm": 120
+        },
+        {
+            "id": "stride",
+            "name": "Stride",
+            "desc": "",
+            "bpm": 110
+        },
+        {
+            "id": "density",
+            "name": "Density 100",
+            "desc": "",
+            "bpm": 120
+        },
+        {
+            "id": "qualifier_match",
+            "name": "Qualifier Match",
+            "desc": "",
+            "bpm": 108
+        }
+    ],
+    "4": [
+        {
+            "id": "crying",
+            "name": "Crying",
+            "desc": "",
+            "bpm": 120
+        },
+        {
+            "id": "sunday",
+            "name": "Sunday",
+            "desc": "",
+            "bpm": 160
+        },
+        {
+            "id": "v8",
+            "name": "V8",
+            "desc": "",
+            "bpm": 100
+        },
+        {
+            "id": "bubble_car",
+            "name": "Bubble Car",
+            "desc": "",
+            "bpm": 96
+        },
+        {
+            "id": "5th_ring",
+            "name": "Within the 5th Ring",
+            "desc": "",
+            "bpm": 120
+        },
+        {
+            "id": "that_is_cool",
+            "name": "That's Cool",
+            "desc": "",
+            "bpm": 160
+        }
+    ]
+}
